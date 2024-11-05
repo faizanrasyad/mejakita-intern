@@ -1,0 +1,6 @@
+@BerbagiCatatanSwagger_HostAddress = http://localhost:5277
+
+GET {{BerbagiCatatanSwagger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
